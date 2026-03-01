@@ -97,9 +97,9 @@
                     Console.WriteLine("5 : Exit");
                     Console.Write("Choose an option: ");
 
-                    string choice = Console.ReadLine();
+                    string z = Console.ReadLine();
 
-                    switch (choice)
+                    switch (z)
                     {
                         case "1":
                             Console.Write("Enter Title: ");
